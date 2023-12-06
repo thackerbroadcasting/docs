@@ -46,6 +46,8 @@ theme:
     - navigation.indexes
     - navigation.instant
     - navigation.instant.progress
+    - header.autohide
+    - announce.dismiss
     - toc.follow
     #- toc.integrate
     - search.suggest
@@ -75,16 +77,16 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night #material/toggle-switch-off-outline
         name: Dark mode
-      primary: orange
-      accent: blue
+      primary: custom
+      accent: amber
     - scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny #material/toggle-switch
         name: Light mode
-      primary: blue
-      accent: gray
+      primary: custom
+      accent: indigo
   favicon: img/logo.png
   logo: img/logo.png
   font:
@@ -143,3 +145,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - stylesheets/extra.css

@@ -89,7 +89,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 _**In Short:**_ We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [contact@thackerbroadcasting.com](mailto:contact@thackerbroadcasting).
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [contact@thackerbroadcasting.com](mailto:contact@thackerbroadcasting).
 
 ## 8. What are your privacy rights?
 
@@ -144,7 +144,7 @@ We have collected the following categories of personal information in the past t
 | Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with our business activities | NO |
 | Professional or employment-related information | Business contact details in order to provide you our services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
 | Education Information | Student records and directory information | NO |
-| Inferences drawn from other personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics | NO |
+| Inferences drawn from other personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences and characteristics | NO |
 
 
 We may also collect other personal information outside of these categories instances where you interact with us in person, online, or by phone or mail in the context of:
@@ -184,7 +184,7 @@ Thacker Broadcasting, LLC has not disclosed or sold any personal information to 
 
 In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re- identify individual data to verify a consumer request.
 
-**Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights.** We will not discriminate against you if you exercise your privacy rights.
+**Right to Non-Discrimination for the Exercise of a Consumer's Privacy Rights.** We will not discriminate against you if you exercise your privacy rights.
 
 **Verification process.** Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
 

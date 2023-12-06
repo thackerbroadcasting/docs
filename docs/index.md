@@ -1,4 +1,8 @@
 ---
+title: Thacker Broadcasting
+social:
+    cards_layout_options:
+        title: Broadcasting Beyond
 hide:
   - navigation
   - toc
