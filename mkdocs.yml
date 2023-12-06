@@ -1,0 +1,46 @@
+site_name: Thacker Broadcasting
+site_url: https://demo.thackerbroadcasting.com
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark mode
+      primary: orange
+      accent: blue
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Light mode
+      primary: blue
+      accent: gray
+copyright: |
+  &copy; 2023 Thacker Broadcasting LLC
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/thackerbroadcasting
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/thackbroadcast
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/thackerbroadcasting
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/thackerbroadcasting
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/thacker-broadcasting
