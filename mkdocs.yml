@@ -23,7 +23,10 @@ nav:
           - Use of Services Disclaimer: legal/use-of-services-disclaimer.md
   - FAQs: faqs.md
   - Contact: contact/index.md
-  - Blog: blog/index.md
+  - Blog:
+      - blog/index.md
+      #- Authors: blog/authors.md
+      - Tags: tags.md
 #not_in_nav: |
   #/legal
 
@@ -55,7 +58,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - content.action.edit
+    #- content.action.edit
     - toc.follow
   icon:
     admonition:
@@ -87,8 +90,8 @@ theme:
         name: Light mode
       primary: custom
       accent: indigo
-  favicon: img/logo.png
-  logo: img/logo.png
+  favicon: assets/logo.png
+  logo: assets/logo.png
   font:
     text: Archivo
     code: Roboto Mono
@@ -99,7 +102,10 @@ copyright: |
 
 # Plugins
 plugins:
-  - blog
+  - blog:
+      #authors_profiles: true
+  - tags:
+      tags_file: tags.md
   - rss:
       match_path: blog/posts/.*
       date_from_meta:
@@ -111,20 +117,26 @@ plugins:
   #- social
   - git-revision-date-localized:
       enable_creation_date: true
+  - glightbox
 
 # Extra configs
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/thackerbroadcasting
+      name: Thacker Broadcasting on Github
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/thackbroadcast
+      name: Find us on Twitter
     - icon: fontawesome/brands/facebook
       link: https://facebook.com/thackerbroadcasting
+      name: Follow our Facebook
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/thackerbroadcasting
+      name: Follow us on Instagram
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/thacker-broadcasting
+      name: Thacker Broadcasting on LinkedIn
   generator: false
   consent:
     title: Cookie consent
