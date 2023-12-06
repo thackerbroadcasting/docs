@@ -1,20 +1,76 @@
 site_name: Thacker Broadcasting
 site_url: https://demo.thackerbroadcasting.com
+site_author: Thacker Broadcasting
+site_description: >-
+  Spice up your business with a broadcasting solution that makes you stand out and keeps customers coming back.
+
+# Navigation
 nav:
   - Home: index.md
-  - About: about.md
+  - Services:
+      - Business & Property: services/business-property.md
+      - Podcasting: services/podcasting.md
+      - Radio Broadcasting: services/radio-broadcasting.md
+      - Web Design: services/web-design.md
+  - About:
+      - about.md
+      - Why Thacker Broadcasting: why.md
+      - Legal:
+          - Overview: legal/overview.md
+          - Privacy Policy: legal/privacy-policy.md
+          - Terms & Conditions: legal/terms-conditions.md
+          - Refusal of Services: legal/refusal-of-services.md
+          - Use of Services Disclaimer: legal/use-of-services-disclaimer.md
+  - FAQs: faqs.md
+  - Contact: contact/index.md
+  - Blog: blog/index.md
+#not_in_nav: |
+  #/legal
+
+# Repository
+#repo_name: thackerbroadcasting/mkdocs-site
+#repo_url: https://github.com/thackerbroadcasting/mkdocs-site
+
+# Configs
 theme:
   name: material
+  custom_dir: site/overrides
   features:
     - navigation.tabs
+    #- navigation.tabs.sticky
     - navigation.sections
-    - toc.integrate
+    - navigation.tracking
     - navigation.top
+    - navigation.footer
+    #- navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - toc.follow
+    #- toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.edit
+    - toc.follow
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+    #repo: fontawesome/brands/git-alt
+    #edit: material/pencil
   language: en
   palette:
     - scheme: default
@@ -29,9 +85,32 @@ theme:
         name: Light mode
       primary: blue
       accent: gray
-copyright: |
-  &copy; 2023 Thacker Broadcasting LLC
+  favicon: img/logo.png
+  logo: img/logo.png
+  font:
+    text: Archivo
+    code: Roboto Mono
 
+
+copyright: |
+  &copy; 2023 Thacker Broadcasting LLC - Broadcasting Beyond | <a href="#__consent">Change cookie settings</a>
+
+# Plugins
+plugins:
+  - blog
+  - rss:
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+  - search
+  #- social
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+# Extra configs
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -44,3 +123,23 @@ extra:
       link: https://instagram.com/thackerbroadcasting
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/thacker-broadcasting
+  generator: false
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    analytics:
+      name: Google Analytics
+      checked: false
+    actions:
+      - accept
+      - reject
+      - manage
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
