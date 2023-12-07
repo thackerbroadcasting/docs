@@ -13,8 +13,10 @@ nav:
       - Radio Broadcasting: services/radio-broadcasting.md
       - Web Design: services/web-design.md
   - About:
-      - about.md
-      - Why Thacker Broadcasting: why.md
+      - about/index.md
+      - What We Do: about/what-we-do.md
+      - Our History: about/history.md
+      - Why Thacker Broadcasting: about/why.md
       - Legal:
           - Overview: legal/overview.md
           - Privacy Policy: legal/privacy-policy.md
@@ -96,7 +98,6 @@ theme:
     text: Archivo
     code: Roboto Mono
 
-
 copyright: |
   &copy; 2023 Thacker Broadcasting LLC - Broadcasting Beyond | <a href="#__consent">Change cookie settings</a>
 
@@ -104,6 +105,19 @@ copyright: |
 plugins:
   - blog:
       #authors_profiles: true
+      authors__file: "{blog}/.authors.yml"
+      pagination_format: "$link_first $link_previous ~2~ $link_next $link_last"
+      draft_on_serve: false
+      archive: true
+      archive_name: "Archive"
+      archive_date_format: yyyy
+      archive_toc: true
+      blog_toc: true
+      post_date_format: full
+      #post_url_date_format: yyyy/MM/dd
+      post_url_format: "{slug}"
+      #post_excerpt: required
+
   - tags:
       tags_file: tags.md
   - rss:
@@ -116,7 +130,7 @@ plugins:
   - search
   #- social
   - git-revision-date-localized:
-      enable_creation_date: true
+      enable_creation_date: false
   - glightbox
 
 # Extra configs
@@ -161,6 +175,10 @@ markdown_extensions:
       alternate_style: true
   - attr_list
   - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+      
 
 extra_css:
   - stylesheets/extra.css

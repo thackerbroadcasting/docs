@@ -1,3 +1,7 @@
+---
+icon: octicons/browser-16
+---
+
 Yeah, our website isn't the flashiest you've ever seen. But you're here, so it's clearly doing the job it needs.
 
 While we don't boast about creating the most gorgeous, jaw-dropping, or flashy websites, we do take pride in the simple ones that we do create. The websites that get the job done. The ones that don't take forever to load. The ones that just work.

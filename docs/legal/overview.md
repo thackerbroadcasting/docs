@@ -1,9 +1,13 @@
 ---
 hide:
   - toc
+date:
+  created: 2023-02-17
+  updated: 2023-12-06
+icon: material/newspaper
 ---
 
-# Legal - Overview
+# Overview
 Thacker Broadcasting, LLC, is an LLC business licensed within the State of Utah. Thacker Broadcasting takes full responsibility for the information that it publishes and the businesses/services it provides, up to and including the normal operation of its equipment/services. Anything considered to be outside of “normal operation” is solely at the discretion of Thacker Broadcasting.
 
 Normal operation of equipment and services is defined as such, and is not limited to:
@@ -17,7 +21,6 @@ Normal operation of equipment and services is defined as such, and is not limite
 Please note that any downtime caused by an unplanned system update or unexpected system failure is not at the fault of Thacker Broadcasting, and thus is not reimbursable (except in cases of negligence). Planned system updates and/or upgrades to local equipment will be worked out with the Client prior. In the case of provided streams and/or remote equipment, announcements will be sent to all Clients utilizing contact methods provided, and the updates will be completed during a time of lesser service.
 
 ---
-
 
 **Business Entity ID – UTAH:** 12260008-0160
 

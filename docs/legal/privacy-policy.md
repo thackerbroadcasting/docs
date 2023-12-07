@@ -1,3 +1,7 @@
+---
+icon: material/lock-alert
+status: new
+---
 # Privacy Policy
 
 This privacy notice for Thacker Broadcasting, LLC ("**Company**", "**we**", "**us**", or "**our**"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services").

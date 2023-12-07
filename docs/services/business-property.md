@@ -1,3 +1,7 @@
+---
+icon: material/office-building
+---
+
 Enough is enough. You can't stand to hear "All I Want for Christmas Is You" another time. Or that pop song that just came out. Imagine being able to change the entire lineup – or remove one song – with a click.
 
 Now make that imagination a reality.

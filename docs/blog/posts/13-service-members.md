@@ -1,5 +1,4 @@
 ---
-draft: false
 date: 2021-08-27
 authors:
     - thackmaster
@@ -121,6 +120,7 @@ A devastating attack on Thursday, August 26, 2021 outside of the Hamid Karzai In
     **Location:** Logansport, Indiana
 
     ???+ example "Images"
+        ![Image text](./13-service-members/humberto1.png){ align=left, loading=lazy }
 
     ???+ quote
 
@@ -130,45 +130,59 @@ A devastating attack on Thursday, August 26, 2021 outside of the Hamid Karzai In
 
 ## Hunter Lopez
 ???+ info
-    **Rank:** 
+    **Rank:** Marine Corps Corporal
 
-    **Age:** 
+    **Age:** 20
 
-    **Location:** 
+    **Location:** Riverside County, California
 
     ???+ example "Images"
+        ![Image text](./13-service-members/hunter1.png){ align=left, loading=lazy }
 
     ???+ quote
+         Hunter was the victim of vicious evil and was killed because he wore a United States Marine uniform with love and pride. Our entire community feels the anguish, and we mourn the death of Hunter, who answered the call to serve, defend and protect our nation.
+
+        - Riverside Sheriff's Association
 
     ???+ tip "Social Media"
+        - [https://www.facebook.com/RCSD.Official/posts/4922881337729001](https://www.facebook.com/RCSD.Official/posts/4922881337729001)
 
     ???+ abstract "Additional Articles"
+        - [USA Today](https://www.usatoday.com/story/news/nation/2021/08/27/hunter-lopez-california-marine-killed-afghanistan-airport-attack/5623513001/)
 
 ## Jared Schmitz
 ???+ info
-    **Rank:** 
+    **Rank:** Marine Corps Lance Corporal
 
-    **Age:** 
+    **Age:** 20
 
-    **Location:** 
+    **Location:** Wentzville, Missouri
 
     ???+ example "Images"
+        ![Image text](./13-service-members/jared1.jpg){ align=left, loading=lazy }
 
     ???+ quote
+        His life meant so much more. I’m so incredibly devastated that I won’t be able to see the man that he was very quickly growing into becoming.
+
+        - Mark Schmitz, father of Jared Schmitz, to [KMOX](https://www.audacy.com/kmox/news/local/a-marine-from-the-stl-area-was-killed-in-afghanistan-thursday-father-confirms) radio
 
     ???+ tip "Social Media"
+        [https://www.facebook.com/SchroerMO/posts/5036130306414531](https://www.facebook.com/SchroerMO/posts/5036130306414531)
 
     ???+ abstract "Additional Articles"
+        - [KMOX St. Louis](https://www.audacy.com/kmox/news/local/a-marine-from-the-stl-area-was-killed-in-afghanistan-thursday-father-confirms)
+        - [Fox 2 Now](https://fox2now.com/news/missouri/report-wentzville-man-among-13-marines-killed-in-afghanistan/)
 
 ## Johanny Rosario
 ???+ info
-    **Rank:** 
+    **Rank:** Marine Corps Sergeant
 
-    **Age:** 
+    **Age:** 25
 
-    **Location:** 
+    **Location:** Lawrence, Massachusetts
 
     ???+ example "Images"
+        ![Image text](./13-service-members/johanny1.png){ align=left, loading=lazy }
 
     ???+ quote
 
@@ -178,45 +192,66 @@ A devastating attack on Thursday, August 26, 2021 outside of the Hamid Karzai In
 
 ## Kareem Nikoui
 ???+ info
-    **Rank:** 
+    **Rank:** Marine Corps Lance Corporal
 
-    **Age:** 
+    **Age:** 20
 
-    **Location:** 
+    **Location:** Indio, California
 
     ???+ example "Images"
+        ![Image text](./13-service-members/kareem1.jpg){ align=left, loading=lazy }
 
     ???+ quote
+        They sent my son over there as a paper pusher and then had the Taliban outside providing security…. I blame my own military leaders… Biden turned his back on him. That’s it.
+
+        - Steve Nikoui, father of Kareem Nikoui, to [The Daily Beast](https://www.thedailybeast.com/slain-marine-kareem-nikouis-dad-vents-anger-at-military-biden-after-kabul-airport-blasts)
 
     ???+ tip "Social Media"
 
     ???+ abstract "Additional Articles"
+        [What To Laugh](https://www.whattolaugh.com/news-marine-killed-afghanistan-brother-t-zan/)
 
 ## Maxton Soviak
 ???+ info
-    **Rank:** 
+    **Rank:** Navy Fleet Marine Force Hospital Corpsman
 
-    **Age:** 
+    **Age:** 22
 
-    **Location:** 
+    **Location:** Berlin Heights, Ohio
 
     ???+ example "Images"
+        ![Image text](./13-service-members/maxton1.jpg){ align=left, loading=lazy }
 
     ???+ quote
+        His final words to (Rachel) over FaceTime, when he was telling her goodbye was after she told him to be safe and he said ‘Don’t worry mom, my guys got me they won’t let anything happen to me.’ Today she realized that they all just went together.
+
+        - Kip and Rachel Soviak, Max’s parents, in a statement to [CNN](https://www.cnn.com/2021/08/27/us/kabul-attack-us-service-members-killed/index.html).
 
     ???+ tip "Social Media"
+        - [Final post to Maxton's Instagram](https://www.instagram.com/p/CP8rapJpOWy/)
+        - [Marilyn Soviak, Max's sister post](https://www.instagram.com/p/CTFElTwnC_i/)
 
     ???+ abstract "Additional Articles"
+        - [The Columbus Dispatch](https://www.dispatch.com/story/news/local/2021/08/27/ohio-navy-medic-max-soviak-killed-afghanistan-sandusky-edisonmarines-kabul-airport-attack/5615293001/)
+        - [The Telegraph](https://www.telegraph.co.uk/world-news/2021/08/27/just-kid-us-medic-died-kabul-suicide-bombing-identified/)
+        - [Sandusky Register](https://sanduskyregister.com/news/339579/local-sailor-killed-in-afghanistan/)
+        - [New York Post](https://nypost.com/2021/08/27/first-us-service-member-killed-in-kabul-airport-attack-idd-as-max-soviak/)
+        - [USA Today](https://www.usatoday.com/story/news/nation/2021/08/27/ohio-navy-medic-max-soviak-killed-afghanistan-kabul-airport-attack/5616050001/)
+        - [Fox 8](https://fox8.com/news/hero-mourned-navy-corpsman-maxton-soviak-to-be-laid-to-rest-today/)
+        - [Obituary](https://www.mormanfuneralhome.com/obituary/Maxton-Soviak)
+        - [Foundation](https://maxtonsoviak.org)
+
 
 ## Nicole Gee
 ???+ info
-    **Rank:** 
+    **Rank:** Marine Corps Sergeant
 
-    **Age:** 
+    **Age:** 23
 
-    **Location:** 
+    **Location:** Roseville, California
 
     ???+ example "Images"
+        ![Image text](./13-service-members/nicole1.jpg){ align=left, loading=lazy }
 
     ???+ quote
 
@@ -226,32 +261,46 @@ A devastating attack on Thursday, August 26, 2021 outside of the Hamid Karzai In
 
 ## Ryan Knauss
 ???+ info
-    **Rank:** 
+    **Rank:** US Army Staff Sergeant
 
-    **Age:** 
+    **Age:** 23
 
-    **Location:** 
+    **Location:** Knoxville, Tennessee
 
     ???+ example "Images"
+        ![Image text](./13-service-members/ryan1.jpg){ align=left, loading=lazy}
 
     ???+ quote
+        The president of the United States has the ability to help our troops, have enough men and women to stay safe. In all of our history, in all of the time that we have been fighting, where did you leave these men and women but at one airport, one location, one gate to funnel thousands through? And who did you trust? You trusted our enemy to allow who would come through.
+
+        - Paula Knauss, mother of Ryan Knauss (quoted from [Fox News](https://www.foxnews.com/media/fallen-soldier-mother-blames-biden-trusted-enemy))
 
     ???+ tip "Social Media"
+        - [https://twitter.com/GlennJacobsTN/status/1431383215810490368](https://twitter.com/GlennJacobsTN/status/1431383215810490368)
 
     ???+ abstract "Additional Articles"
+        - [WBIR (NBC10 Knoxville, Tennessee)](https://www.wbir.com/article/news/national/military-news/family-gibbs-high-school-graduate-among-13-us-troops-killed-in-kabul-airport-attack/51-ac76d66a-c6d3-46a6-ab07-f99596c5cf87)
+        - [WATE (ABC6 Knoxville, Tennessee)](https://www.wate.com/news/afghanistan/u-s-marine-from-knoxville-killed-in-terrorist-attack-at-afghanistan-airport/)
+        - [Fox News](https://www.foxnews.com/media/fallen-soldier-mother-blames-biden-trusted-enemy)
 
 ## Rylee James McCollum
 ???+ info
-    **Rank:** 
+    **Rank:** Marine Corps Lance Corporal
 
-    **Age:** 
+    **Age:** 20
 
-    **Location:** 
+    **Location:** Jackson, Wyoming
 
     ???+ example "Images"
+        ![Image text](./13-service-members/rylee1.jpg){ align=left, loading=lazy }
 
     ???+ quote
+        I never thought in a million years [my son] would die for nothing, for nothing, because that feckless, dementia-ridden piece of crap who decided he wanted a photo-op on September 11th. That’s what kills me. I wanted my son to represent our country, to fight for my country. But I never thought that a feckless piece of crap would send him to his death and smirk on television while he’s talking about people dying with his nasty smirk.
+
+        - Kathy McCollum, mother of Rylee James McCollum, in a phone call to "The Wilkow Majority" / SiriusXM (video posted on [Twitter](https://twitter.com/ErrolWebber/status/1431598596923723782))
 
     ???+ tip "Social Media"
+        - [https://twitter.com/ErrolWebber/status/1431598596923723782](https://twitter.com/ErrolWebber/status/1431598596923723782) (phone call to "The Wilkow Majority")
+        - [https://twitter.com/jasonrantz/status/1431745831351185409](https://twitter.com/jasonrantz/status/1431745831351185409) (additional recording)
 
     ???+ abstract "Additional Articles"

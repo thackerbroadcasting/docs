@@ -1,3 +1,7 @@
+---
+icon: material/head-question
+---
+
 # Why Thacker Broadcasting?
 
 You must be wondering "why should I choose this little company over one of the bigger ones? They know what they're doing, they've been doing it for years!"
@@ -16,4 +20,4 @@ Put control of your music system back into your own hands. No more iPad in the b
 
 Slick. Streamlined. Easy to use. Manage from anywhere.
 
-Ready to take the plunge? Or maybe you wanna try it out for yourself first. [Contact us](https://outlook.office.com/bookwithme/user/47086afdbe554808a56671a3783d1fd9@thackerbroadcasting.com/meetingtype/XfaOlBfg_U-ExCMVshcdNg2?anonymous&ep=mlink) to find out if Thacker Broadcasting is the right pick for where you do business.
+Ready to take the plunge? Or maybe you wanna try it out for yourself first. [Contact us](../contact/index.md) to find out if Thacker Broadcasting is the right pick for where you do business.

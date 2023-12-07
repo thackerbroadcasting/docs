@@ -1,11 +1,12 @@
 ---
-draft: false
 date: 2021-08-27
 authors:
     - thackmaster
 comments: true
 categories:
-    - Acquisition
+    - Press Release
+tags:
+    - acquisition
 ---
 
 # New Websites

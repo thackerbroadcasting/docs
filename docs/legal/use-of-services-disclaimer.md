@@ -1,3 +1,7 @@
+---
+icon: fontawesome/solid/satellite-dish
+---
+
 # Use of Services Disclaimer
 
 Thacker Broadcasting ("**Us**", "**We**", "**Our**") operates as a Limited Liability Company. This page serves as the layout for what we will and will not accept liability for, and is not all encompassing. By utilizing our system and agreeing to use our services that utilize it, the Customer ("**You**", "**Your**") acknowledge that you have read this disclaimer.

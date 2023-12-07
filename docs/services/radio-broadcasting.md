@@ -1,3 +1,7 @@
+---
+icon: material/radio-tower
+---
+
 Radio has been around for a long time, and the industry has made some amazing leaps forward in technology. But you might be holding on to that old playout system simply because it works and you know how to use it. Let’s discuss a way to save you money and provide flexibility that you might be missing, including requests and remote management.
 
 Take a look at what some of our clients are listening to right now!
