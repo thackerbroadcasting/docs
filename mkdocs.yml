@@ -129,8 +129,8 @@ plugins:
         - tags
   - search
   #- social
-  - git-revision-date-localized:
-      enable_creation_date: false
+  #- git-revision-date-localized:
+      #enable_creation_date: false
   - glightbox
 
 # Extra configs
@@ -178,7 +178,7 @@ markdown_extensions:
   - toc:
       permalink: true
       title: On this page
-      
+
 
 extra_css:
   - stylesheets/extra.css
