@@ -39,7 +39,7 @@ nav:
 # Configs
 theme:
   name: material
-  custom_dir: site/overrides
+  custom_dir: src/overrides
   features:
     - navigation.tabs
     #- navigation.tabs.sticky
