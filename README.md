@@ -17,6 +17,7 @@ Activate the environment
 6. `code .`
 
 Install dependencies
+
 7. Terminal > New Terminal
 8. - Mac/Linux - `pip install mkdocs-material && pip install mkdocs-rss-plugin && pip install mkdocs-git-revision-date-localized-plugin && pip install mkdocs-glightbox`
    - Windows - `pip install mkdocs-material; pip install mkdocs-rss-plugin; pip install mkdocs-git-revision-date-localized-plugin; pip install mkdocs-glightbox`
