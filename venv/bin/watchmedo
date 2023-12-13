@@ -1,4 +1,4 @@
-#!/Users/wesleythacker/Documents/GitHub/mkdocs-site/venv/bin/python3
+#!/Users/wesleythacker/GitHub/mkdocs-site/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

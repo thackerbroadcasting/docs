@@ -1,40 +1,31 @@
-site_name: Thacker Broadcasting
-site_url: https://demo.thackerbroadcasting.com
+site_name: Thacker Broadcasting Docs
+site_url: https://docs.thackerbroadcasting.com
 site_author: Thacker Broadcasting
 site_description: >-
-  Spice up your business with a broadcasting solution that makes you stand out and keeps customers coming back.
+  Documentation relating to the relating to our site(s), its operations, business operations, legal and product documentation, FAQs, and more of Thacker Broadcasting.
 
 # Navigation
 nav:
   - Home: index.md
-  - Services:
-      - Business & Property: services/business-property.md
-      - Podcasting: services/podcasting.md
-      - Radio Broadcasting: services/radio-broadcasting.md
-      - Web Design: services/web-design.md
-  - About:
-      - about/index.md
-      - What We Do: about/what-we-do.md
-      - Our History: about/history.md
-      - Why Thacker Broadcasting: about/why.md
-      - Legal:
-          - Overview: legal/overview.md
-          - Privacy Policy: legal/privacy-policy.md
-          - Terms & Conditions: legal/terms-conditions.md
-          - Refusal of Services: legal/refusal-of-services.md
-          - Use of Services Disclaimer: legal/use-of-services-disclaimer.md
-  - FAQs: faqs.md
-  - Contact: contact/index.md
-  - Blog:
-      - blog/index.md
-      #- Authors: blog/authors.md
-      - Tags: tags.md
+  - Legal:
+      - legal/index.md
+      - Privacy Policy: legal/privacy-policy.md
+      - Terms & Conditions: legal/terms-conditions.md
+      - Refusal of Services: legal/refusal-of-services.md
+      - Use of Services Disclaimer: legal/use-of-services-disclaimer.md
+  - FAQs:
+      #- faqs/index.md
+      - Can I Have a Local Instance?: faqs/local-instance.md
+      - Can I Request to be Hosted in a Different Data Center?: faqs/hosting-change.md
+      - How Do I Get My Music?: faqs/music.md
+      - How do we Guarantee our Uptime?: faqs/uptime.md
+      - What Security Measures are used to Protect me and my Music?: faqs/security-measures.md
 #not_in_nav: |
   #/legal
 
 # Repository
-#repo_name: thackerbroadcasting/mkdocs-site
-#repo_url: https://github.com/thackerbroadcasting/mkdocs-site
+repo_name: thackerbroadcasting/mkdocs-site
+repo_url: https://github.com/thackerbroadcasting/mkdocs-site
 
 # Configs
 theme:
@@ -60,7 +51,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    #- content.action.edit
+    - content.action.edit
     - toc.follow
   icon:
     admonition:
@@ -76,8 +67,8 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
-    #repo: fontawesome/brands/git-alt
-    #edit: material/pencil
+    repo: fontawesome/brands/github
+    edit: material/pencil
   language: en
   palette:
     - scheme: default
@@ -99,7 +90,7 @@ theme:
     code: Roboto Mono
 
 copyright: |
-  &copy; 2023 Thacker Broadcasting LLC - Broadcasting Beyond | <a href="#__consent">Change cookie settings</a>
+  &copy; 2023 Thacker Broadcasting LLC - Broadcasting Beyond | <a href="https://thackerbroadcasting.atlassian.net/servicedesk/customer/portal">Submit a ticket</a> | <a href="#__consent">Change cookie settings</a>
 
 # Plugins
 plugins:
@@ -118,8 +109,8 @@ plugins:
       post_url_format: "{slug}"
       #post_excerpt: required
 
-  - tags:
-      tags_file: tags.md
+  #- tags:
+      #tags_file: tags.md
   - rss:
       match_path: blog/posts/.*
       date_from_meta:
@@ -129,8 +120,10 @@ plugins:
         - tags
   - search
   #- social
-  #- git-revision-date-localized:
-      #enable_creation_date: false
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+  #- git-authors
   - glightbox
 
 # Extra configs
@@ -165,7 +158,7 @@ extra:
     actions:
       - accept
       - reject
-      - manage
+      #- manage
 
 markdown_extensions:
   - admonition
@@ -173,12 +166,14 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
   - toc:
       permalink: true
       title: On this page
-
 
 extra_css:
   - stylesheets/extra.css

@@ -1,71 +1,38 @@
 ---
 #template: home.html
-title: Thacker Broadcasting
+#title: Thacker Broadcasting
 social:
     cards_layout_options:
-        title: Broadcasting Beyond
+        title: Documentation Beyond Broadcasting
 hide:
-    - toc
+    #- toc
     - navigation
 ---
-<head>
-    <script src="https://kit.fontawesome.com/997148e54f.js" crossorigin="anonymous"></script>
-<style>
-    .cover-image {
-        position: relative;
-        display: inline-block;
-    }
-    .flex-container {
-        display: flex;
-        flex-direction: row;
-        text-align: center;
-    }
-    .header-bold {
-        font-weight: 1000;
-    }
-    .column {
-        flex: 20%;
-        padding: 10px;
-        text-align: center;
-    }
-    @media (max-width: 800px) {
-        .flex-container {
-            flex-direction: column;
-        }
-    }
-</style>
-</head>
 
-<body>
-    <div class="cover-image">
-      <img src="./assets/header.jpg" alt="Record Player" style="width:100%; pointer-events: none; cursor: default;">
-        <div class="column" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
-            <h1 style="font-size:clamp(27.894px, 1.743rem + ((1vw - 3.2px) * 2.285), 48px); text-transform:uppercase; color: white;"><span class="header-bold">Broadcasting Solutions for your Business</h1>
-            <p>Spice up your business with a broadcasting solution that makes you stand out and keeps customers coming back.</p>
-        </div>
-    </div>
-    <div class="flex-container">
-        <div class="column">
-            <h2><i class="fa-solid fa-calendar-days"></i><br><span class="header-bold">Scheduled. 24/7.</h2>
-            <p>You tell us when you want music. We’ll provide it on your schedule. And make any adjustments you want at any time with an easy-to-use web portal.</p>
-        </div>
-        <div class="column">
-            <h2><i class="fa-solid fa-sliders"></i><br><span class="header-bold">Customizable</h2>
-            <p>Your music instance is yours. And because of this architecture, we’re able to make each one unique. Maybe you don’t want that new pop song. No problem, we’ll get rid of it. With an almost limitless combination of programming, music choice, and anything else you throw in there, your instance will forever be unique to your business!</p>
-        </div>
-        <div class="column">
-            <h2><i class="fa-solid fa-bolt"></i><br><span class="header-bold">Resilient</h2>
-            <p>Modern hardware and software combined with experience provide an experience like never before to keep your business running and customers happy.</p>
-        </div>
-        <div class="column">
-            <h2><i class="fa-solid fa-rocket"></i><br><span class="header-bold">Music. Fast.</h2>
-            <p>It’s fast. Want to change the current playlist? Cue it up, the current song will finish, and you’re in business. Flip your classy restaurant to a nightclub (or whatever your fancy is) with a couple clicks. Whatever the situation, our system will respond almost instantly.</p>
-        </div>
-        <div class="column">
-            <h2><i class="fa-solid fa-check"></i><br><span class="header-bold">Always Updated.</h2>
-            <p>We keep up with the music industry so you don’t have to. New songs are added every week and you’ll benefit from it every time. Plus, we keep our equipment and software up-to-date so your experience is always flawless.</p>
-        </div>
-    </div>
-</body>
+Welcome to the Thacker Broadcasting Docs site. Here, we document everything relating to our site(s), its operations, business operations, legal and product documentation, FAQs, and more.
 
-[Learn more about us and what we do! <i class="fa-solid fa-clipboard-list"></i>](./services/business-property.md){ .md-button }
+## Nice to know
+Each page has dates listed at the bottom indicating Last updated date (:material-clock-edit-outline:) and Creation date (:material-clock-plus-outline:). These serve as an indicator in helping you determine when our last update to the item was. If there are any mistypes or things you feel should be corrected, you may do so by clicked the pencil in the top right of each page (:material-pencil:).
+
+## Cookies
+This site uses cookies to help better serve you if you visit multiple times. We do not interact with these cookies nor does a third-party. These are used by your local browser to assist our search in finding pertinent items to you as well as remember your dark mode preferences. You may change your settings to these at any time by selecting "Change cookie settings" in the footer.
+
+## Layout
+Our site is layed out as such:
+
+- Menu bars contain "Categories" of items, such as Legal or FAQs
+- Each menu may contain multiple sub-categories or sections, which are laid out on the left side of the page
+- Headers (and other important points) for each page are listed on the right side titled "On this page". This is especially useful when you may be looking for a particular section in a document.
+- Our header contains a search bar to help you find items on the site. Additionally, our public repository where this documentation is hosted lives beside it.
+- Our footer contains our copyright, support desk (titled "Submit a ticket"), the ability to change your cookie settings, and our social media.
+
+## Hosting/Traffic
+This site is hosted through [Github Pages](https://docs.github.com/en/pages). The following is collected upon visiting this site:
+
+- Traffic indicating you visited (collected anonymously)
+- The site you visited from (collected anonymously)
+- What you viewed while visiting (collected anonymously)
+
+This data can be viewed by logging into a GitHub account [here](https://github.com/thackerbroadcasting/mkdocs-site/graphs/traffic).
+
+You may validate this for yourself by investigating the files located in the `src` folder as well as `mkdocs.yml` file.
