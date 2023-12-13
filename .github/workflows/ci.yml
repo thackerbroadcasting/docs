@@ -1,0 +1,69 @@
+name: ci
+on:
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+permissions:
+  contents: write
+  #pages: write
+  #id-token: write
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    #environment:
+      #name: github-pages
+      #url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      #- name: Setup Pages
+        #uses: actions/configure-pages@v4
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-rss-plugin 
+      - run: pip install mkdocs-git-revision-date-localized-plugin
+      - run: pip install mkdocs-glightbox
+      #- run: pip install mkdocs-git-authors-plugin
+      - run: mkdocs gh-deploy --force
+      #- name: Upload artifact
+        #uses: actions/upload-pages-artifact@v2
+        #with:
+          # Upload entire repository
+          #path: '.'
+      #- name: Deploy to GitHub Pages
+        #id: deployment
+        #uses: actions/deploy-pages@v3
+
+#jobs:
+#  deploy:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/checkout@v3
+#      - uses: actions/setup-python@v4
+#        with:
+#          python-version: 3.x
+#      - uses: actions/cache@v2
+#        with:
+#          key: ${{ github.ref }}
+#          path: .cache
+#      - run: pip install mkdocs-material
+#      - run: pip install mkdocs-rss-plugin 
+#      - run: pip install mkdocs-git-revision-date-localized-plugin
+#      - run: pip install mkdocs-glightbox
+#      #- run: pip install mkdocs-git-authors-plugin
+#      - run: mkdocs gh-deploy --force
+#      - name: Deploy to GitHub Pages
+#        id: deployment
+#        uses: actions/deploy-pages@v3
