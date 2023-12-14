@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/thackerbroadcasting/docs/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/thackerbroadcasting/docs/actions/workflows/pages/pages-build-deployment) [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/qi7j.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 # mkdocs-site
 
 To develop this locally, do the following:
