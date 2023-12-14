@@ -24,8 +24,8 @@ nav:
   #/legal
 
 # Repository
-repo_name: thackerbroadcasting/mkdocs-site
-repo_url: https://github.com/thackerbroadcasting/mkdocs-site
+repo_name: thackerbroadcasting/docs
+repo_url: https://github.com/thackerbroadcasting/docs
 
 # Configs
 theme:
