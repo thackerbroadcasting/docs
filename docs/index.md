@@ -11,14 +11,8 @@ hide:
 
 Welcome to the Thacker Broadcasting Docs site. Here, we document everything relating to our site(s), its operations, business operations, legal and product documentation, FAQs, and more.
 
-## Nice to know
-Each page has dates listed at the bottom indicating Last updated date (:material-clock-edit-outline:) and Creation date (:material-clock-plus-outline:). These serve as an indicator in helping you determine when our last update to the item was. If there are any mistypes or things you feel should be corrected, you may do so by clicked the pencil in the top right of each page (:material-pencil:).
-
-## Cookies
-This site uses cookies to help better serve you if you visit multiple times. We do not interact with these cookies nor does a third-party. These are used by your local browser to assist our search in finding pertinent items to you as well as remember your dark mode preferences. You may change your settings to these at any time by selecting "Change cookie settings" in the footer.
-
 ## Layout
-Our site is layed out as such:
+Our site is laid out as such:
 
 - Menu bars contain "Categories" of items, such as Legal or FAQs
 - Each menu may contain multiple sub-categories or sections, which are laid out on the left side of the page

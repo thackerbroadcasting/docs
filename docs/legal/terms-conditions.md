@@ -1,8 +1,8 @@
 ---
 icon: material/file-sign
+status: new
 ---
 
-# Terms and Conditions
 _Revision **2**. Last updated: **December 16, 2023**_
 
 ## Agreement to our Legal Terms
@@ -36,7 +36,7 @@ Our Content and Marks are protected by copyright and trademark laws (and various
 The Content and Marks are provided in or through the Services "AS IS" for your personal, non-commercial use or internal business purpose only.
 
 ### Your use of our Services
-Subject to your compliance with these Legal Terms, including the "[Prohibited Activities](#4)" section below, we grant you a non-exclusive, non-transferable, revocable license to:
+Subject to your compliance with these Legal Terms, including the "[Prohibited Activities](#4-prohibited-activities)" section below, we grant you a non-exclusive, non-transferable, revocable license to:
 
 - access the Services; and
 - download or print a copy of any portion of the Content to which you have properly gained access
@@ -51,7 +51,7 @@ We reserve all rights not expressly granted to you in and to the Services, Conte
 Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and your right to use our Services will terminate immediately.
 
 ### Your submissions and contributions
-Please review this section and the "[Prohibited Activities](#4)" section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
+Please review this section and the "[Prohibited Activities](#4-prohibited-activities)" section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
 
 **Submissions:** By directly sending us any question, comment, suggestion, idea, feedback, or other information about the Services ("Submissions"), you agree to assign to us all intellectual property rights in such Submission. You agree that we shall own this Submission and be entitled to its unrestricted use and dissemination for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
 

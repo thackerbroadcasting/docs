@@ -2,8 +2,6 @@
 icon: material/note-off-outline
 ---
 
-# Refusal of Services
-
 Thacker Broadcasting, LLC reserves the right to refuse services to anyone for the following reasons, to include but not limited to:
 
 - Violence

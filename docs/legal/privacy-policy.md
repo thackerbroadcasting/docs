@@ -3,7 +3,6 @@ icon: material/lock-alert
 status: new
 ---
 
-# Privacy Policy
 _Revision **2**. Last updated: **December 16, 2023**_
 
 This privacy notice for Thacker Broadcasting, LLC (doing business as Thacker Broadcasting) ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
@@ -23,11 +22,11 @@ _**This summary provides key points from our privacy notice, but you can find ou
 
 **How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#2-how-do-we-process-your-information).
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#3).
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#3-when-and-with-whom-do-we-share-your-personal-information).
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#6).
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#6-how-do-we-keep-your-information-safe).
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#8).
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#8-what-are-your-privacy-rights).
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by visiting [https://forms.office.com/r/26M3twGffc](https://forms.office.com/r/26M3twGffc), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
@@ -102,7 +101,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 _**In Short:**  You may review, change, or terminate your account at any time._
 
 ### Withdrawing your consent
-If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[How can you contact us about this notice?](#12)" below.
+If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[How can you contact us about this notice?](#12-how-can-you-contact-us-about-this-notice)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
@@ -147,10 +146,10 @@ We may also collect other personal information outside of these categories throu
 - Facilitation in the delivery of our Services and to respond to your inquiries.
 
 #### How do we use and share your personal information?
-Learn about how we use your personal information in the section, "[How do we process your information?](#2)"
+Learn about how we use your personal information in the section, "[How do we process your information?](#2-how-do-we-process-your-information)"
 
 #### Will your information be shared with anyone else?
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[When and with whom do we share your personal information?](#3)"
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[When and with whom do we share your personal information?](#3-when-and-with-whom-do-we-share-your-personal-information)"
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 

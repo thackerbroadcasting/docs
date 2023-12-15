@@ -9,10 +9,11 @@ nav:
   - Home: index.md
   - Legal:
       - legal/index.md
+      - Disclaimer: legal/disclaimer.md
       - Privacy Policy: legal/privacy-policy.md
-      - Terms & Conditions: legal/terms-conditions.md
+      - Terms and Conditions: legal/terms-conditions.md
+      - Cookie Policy: legal/cookies.md
       - Refusal of Services: legal/refusal-of-services.md
-      - Use of Services Disclaimer: legal/use-of-services-disclaimer.md
   - FAQs:
       #- faqs/index.md
       - Can I Have a Local Instance?: faqs/local-instance.md
@@ -50,7 +51,7 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.annotation
-    - content.code.copy
+    #- content.code.copy
     - content.action.edit
     - toc.follow
   icon:
@@ -120,9 +121,9 @@ plugins:
         - tags
   - search
   #- social
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: date
+  #- git-revision-date-localized:
+      #enable_creation_date: true
+      #type: date
   #- git-authors
   - glightbox
 
