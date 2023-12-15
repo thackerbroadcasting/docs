@@ -56,7 +56,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 
 ## 2. How do we process your information?
-_**In Short: **We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
+_**In Short:** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
 
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
 
@@ -82,14 +82,14 @@ _**In Short:** We may use cookies and other tracking technologies to collect an
 We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice: [https://docs.thackerbroadcasting.com/legal/cookies](https://docs.thackerbroadcasting.com/legal/cookies).
 
 ## 5. How long do we keep your information?
-_**In Short: **We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
+_**In Short:** We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than 1 year.
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 ## 6. How do we keep your information safe?
-_**In Short: **We aim to protect your personal information through a system of organizational and technical security measures._
+_**In Short:** We aim to protect your personal information through a system of organizational and technical security measures._
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
