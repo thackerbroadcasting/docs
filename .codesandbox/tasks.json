@@ -2,24 +2,24 @@
   // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [
     {
-      "command": "sudo apt-get install python3-pip",
-      "name": "Install Python"
+      "name": "Install Python",
+      "command": "sudo apt-get install python3-pip"
     },
     {
-      "command": "pip install mkdocs-material",
-      "name": "pip install mkdocs-material"
+      "name": "pip install mkdocs-material",
+      "command": "pip install mkdocs-material"
     },
     {
-      "command": "pip install mkdocs-rss-plugin",
-      "name": "pip install mkdocs-rss-plugin"
+      "name": "pip install mkdocs-rss-plugin",
+      "command": "pip install mkdocs-rss-plugin"
     },
     {
-      "command": "pip install mkdocs-git-revision-date-localized-plugin",
-      "name": "pip install mkdocs-git-revision-date-localized-plugin"
+      "name": "pip install mkdocs-git-revision-date-localized-plugin",
+      "command": "pip install mkdocs-git-revision-date-localized-plugin"
     },
     {
-      "command": "pip install mkdocs-glightbox",
-      "name": "pip install mkdocs-glightbox"
+      "name": "pip install mkdocs-glightbox",
+      "command": "pip install mkdocs-glightbox"
     }
   ],
 
