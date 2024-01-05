@@ -1,0 +1,34 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "command": "sudo apt-get install python3-pip",
+      "name": "Install Python"
+    },
+    {
+      "command": "pip install mkdocs-material",
+      "name": "pip install mkdocs-material"
+    },
+    {
+      "command": "pip install mkdocs-rss-plugin",
+      "name": "pip install mkdocs-rss-plugin"
+    },
+    {
+      "command": "pip install mkdocs-git-revision-date-localized-plugin",
+      "name": "pip install mkdocs-git-revision-date-localized-plugin"
+    },
+    {
+      "command": "pip install mkdocs-glightbox",
+      "name": "pip install mkdocs-glightbox"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "": {
+      "name": "Start development server",
+      "command": "mkdocs serve",
+      "runAtStart": true
+    }
+  }
+}
