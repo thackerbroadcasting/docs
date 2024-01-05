@@ -156,23 +156,6 @@ We may use your personal information for our own business purposes, such as for 
 
 We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
 
-### California Residents
-California Civil Code Section 1798.83, also known as the "Shine The Light" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
-
-If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
-
-### CCPA Privacy Notice
-This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
-
-The California Code of Regulations defines a "residents" as:
-
-1. every individual who is in the State of California for other than a temporary or transitory purpose and
-2. every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
-
-All other individuals are defined as "non-residents."
-
-If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
-
 ### Your rights with respect to your personal data
 #### Right to request deletion of the data — Request to delete
 You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
@@ -209,6 +192,23 @@ We will only use personal information provided in your request to verify your id
 - You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
 To exercise these rights, you can contact us by visiting [https://forms.office.com/r/26M3twGffc](https://forms.office.com/r/26M3twGffc), by email at [contact@thackerbroadcasting.com](mailto:contact@thackerbroadcasting.com), by visiting [thackerbroadcasting.com/contact](https://thackerbroadcasting.com/contact), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+
+### California Residents
+California Civil Code Section 1798.83, also known as the "Shine The Light" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
+
+#### CCPA Privacy Notice
+This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
+
+The California Code of Regulations defines a "residents" as:
+
+1. every individual who is in the State of California for other than a temporary or transitory purpose and
+2. every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
+
+All other individuals are defined as "non-residents."
+
+If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
 
 ### Colorado Residents
 This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
