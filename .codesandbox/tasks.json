@@ -3,7 +3,7 @@
   "setupTasks": [
     {
       "name": "Install Python",
-      "command": "sudo apt-get install python3-pip"
+      "command": "sudo apt-get install python3-pip -y"
     },
     {
       "name": "pip install mkdocs-material",
@@ -28,7 +28,10 @@
     "": {
       "name": "Start development server",
       "command": "mkdocs serve",
-      "runAtStart": true
+      "runAtStart": true,
+      "preview": {
+        "port": 8000
+      }
     }
   }
 }
