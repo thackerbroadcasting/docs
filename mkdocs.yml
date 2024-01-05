@@ -91,7 +91,7 @@ theme:
     code: Roboto Mono
 
 copyright: |
-  &copy; 2023 Thacker Broadcasting LLC - Broadcasting Beyond | <a href="https://thackerbroadcasting.atlassian.net/servicedesk/customer/portal">Submit a ticket</a> | <a href="#__consent">Change cookie settings</a>
+  &copy; 2023 Thacker Broadcasting LLC - Broadcasting Beyond • <a href="https://thackerbroadcasting.atlassian.net/servicedesk/customer/portal">Submit a ticket</a> • <a href="#__consent">Change cookie settings</a>
 
 # Plugins
 plugins:
