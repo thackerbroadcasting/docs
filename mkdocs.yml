@@ -121,9 +121,9 @@ plugins:
         - tags
   - search
   #- social
-  #- git-revision-date-localized:
-      #enable_creation_date: true
-      #type: date
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
   #- git-authors
   - glightbox
 
